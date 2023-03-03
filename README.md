@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omkareshwar Halli</h1>
+<h1 align="center">Hi 👋, This is Omkareshwar Halli</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
 <img align="right" alt="coding" width="370" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47yifo1c99m96t5ikha7sutp2udbfqvtwu6dvfh63j&rid=giphy.gif&ct=g">
