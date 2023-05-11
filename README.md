@@ -9,7 +9,7 @@
 - ⚡ Fun Fact **DSA Enthusiast**
 - ✍️ **Problem** Solver
 - 🖥️ **Full Stack Web Developer**
-- ⌨️ **Debugger**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkareshwar14" alt="omkareshwar14" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ty_omkar" target="blank"><img src="https://img.shields.io/twitter/follow/ty_omkar?logo=twitter&style=for-the-badge" alt="ty_omkar" /></a> </p>
