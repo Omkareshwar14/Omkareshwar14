@@ -6,10 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkareshwar14&label=Profile%20views&color=0e75b6&style=flat" alt="omkareshwar14" /> </p>
 
+- 🔆 **Aspiring Software Developer**
 - ⚡ Fun Fact **DSA Enthusiast**
 - ✍️ **Problem** Solver
 - 🖥️ **Full Stack Web Developer**
 - ✅ **Debugger**
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkareshwar14" alt="omkareshwar14" /></a> </p>
 
