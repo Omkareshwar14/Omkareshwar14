@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **omkarhalli14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F07YvaCJsypCqkavBiCK23bHFEbXPh-G/view?usp=sharing](https://drive.google.com/file/d/1F07YvaCJsypCqkavBiCK23bHFEbXPh-G/view?usp=sharing)
+- 📄 Know about my experiences [Download CV ]([https://drive.google.com/file/d/1F07YvaCJsypCqkavBiCK23bHFEbXPh-G/view?usp=sharing](https://drive.google.com/file/d/1wtFlDBdwhkmIPwTcd-wHJOu_kh0lrmVE/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
